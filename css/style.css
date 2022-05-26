@@ -1,0 +1,68 @@
+/*Genearal css*/
+
+/*fonts link with css  */
+
+@font-face{
+	src: url('../font/SegoeWPN.ttf');
+	font-family: chintu;
+}
+	@font-face{
+	src: url('../font/Segoe WP Light.ttf');
+	font-family: mintu;
+}
+*{box-sizing: border-box;}
+.container{width: 1024px;margin: 0 auto;font-family: chintu; }
+.clear{clear: both;}
+h1{font-size: 42.35px;color: #6f7173;}
+h2{font-size: 26.35px;color: #6f7173;}
+h3{font-size: 20.35px;color: #5094f2;}
+p{font-size: 14.35px;color: #909090}                 
+
+/*regular CSS*/
+.header{padding: 25px 0 22px;}
+.header .brand{float: left;}
+.header .brand img{}
+.header .nav{float: right;padding-top: 27px;}
+.header .nav ul{}
+.header .nav ul li{display: inline;}
+.header .nav ul li a{text-decoration: none;color: #6c6c6c;padding: 7px 18px 20px; font-weight: 700;}
+.header .nav ul li a:hover{border-bottom: 3px solid #006588;}
+
+.banner img{width: 100%;}
+
+.category{padding: 65px 0 85px;}
+.category .card{float: left;text-align: center;width: 341px;}
+.category .card img{}
+.category .card h3{margin: 25px 0 10px;}
+.category .card p{}
+
+.cart {padding-bottom: 60px;}
+.cart h1 {padding-left: 54px; padding-bottom: 15px;}
+.cart .bigbasket { float: left; width: 512px}
+.cart .bigbasket img {padding: 20px 0 0 54px;}
+.cart .disc { float: left; width: 512px}
+.cart .disc h2 {}
+.cart .disc p {padding-top: 36px; line-height: 36px; font-size: 15.35px;font-family: mintu;}
+
+.footer{padding: 35px 0 45px;text-align: center;font-family: mintu;font-size: 15.35px;border-top: 1px solid #aaa;}
+
+
+
+
+/*
+
+1. Photoshop (adobe product) - ui designer
+2. Html Css Javascript, bootstrap - ux developer/ frontend developer 
+3. Photoshop Html Css Javascript, bootstrap - ui/ux designer / frontend developer
+4. php - php backend developer i love u
+5. javascript - js developer mi tuyavr prem krto
+6. Html Css Javascript, bootstrap, php - web developer
+7. Html Css Javascript, bootstrap, php, wordpress - wordpress developer
+
+
+
+
+
+
+
+*/
